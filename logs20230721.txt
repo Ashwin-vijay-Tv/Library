@@ -1,0 +1,12 @@
+2023-07-21 12:31:51.684 +05:30 [INF] User profile is available. Using 'C:\Users\aswin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-07-21 12:31:51.948 +05:30 [INF] Now listening on: http://localhost:5000
+2023-07-21 12:31:51.949 +05:30 [INF] Now listening on: https://localhost:5001
+2023-07-21 12:31:51.954 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-21 12:31:51.955 +05:30 [INF] Hosting environment: Development
+2023-07-21 12:31:51.955 +05:30 [INF] Content root path: D:\Projects23\Aspire Projects\LibraryManagementSystem
+2023-07-21 12:32:10.498 +05:30 [INF] User profile is available. Using 'C:\Users\aswin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-07-21 12:32:10.804 +05:30 [INF] Now listening on: http://localhost:5000
+2023-07-21 12:32:10.804 +05:30 [INF] Now listening on: https://localhost:5001
+2023-07-21 12:32:10.810 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-21 12:32:10.810 +05:30 [INF] Hosting environment: Development
+2023-07-21 12:32:10.810 +05:30 [INF] Content root path: D:\Projects23\Aspire Projects\LibraryManagementSystem
